@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coldrbx" alt="coldrbx" /> </p>
 
--  I’m currently working on [WizardUGC](https://github.com/ColdRBX/WizardUGC)
+- 👨‍💻 I’m currently working on [WizardUGC](https://github.com/ColdRBX/WizardUGC)
 
 - 📚 I’m currently learning **Vue.JS & C++**
 
