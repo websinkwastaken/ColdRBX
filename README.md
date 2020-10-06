@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coldrbx" alt="coldrbx" /> </p>
 
-- 👨‍💻 I’m currently working on [WizardUGC](https://github.com/ColdRBX/WizardUGC)
+- 👨‍💻 I’m currently working on [WizardUGC](https://wizardugc.com)
 
 - 📚 I’m currently learning **Vue.JS & C++**
 
-- 📷 WizardUGC is available at [https://wizardugc.xyz/](https://wizardugc.xyz/)
+- 📷 WizardUGC is available at [https://wizardugc.com/](https://wizardugc.com/)
 
 - ❓ Ask me about **WizardUGC**
 
