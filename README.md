@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm ColdRBX</h1>
-<h3 align="center">An experienced JavaScript developer, learning the full **MEVN** stack!</h3>
+<h3 align="center">An experienced JavaScript developer, learning the full MEVN stack!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coldrbx" alt="coldrbx" /> </p>
 
